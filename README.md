@@ -4,6 +4,7 @@
 - 🌱 I’m currently focusing on ChatGPT, upcoming Freelancer Projects, and several private projects about Climate_Tech.
 - 💞️ I’m looking to collaborate on Data Science Enthusiasts, Software Engineers.
 - 📫 Contact = > https://www.linkedin.com/in/hatice-peucker-727501213/
+- 📫 Instagram: usicorntech and chat_gptmemes
 
 <!---
 chichi-pixel/chichi-pixel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
