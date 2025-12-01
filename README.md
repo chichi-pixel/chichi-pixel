@@ -1,4 +1,4 @@
-- 👋 Hi, @chichi-pixel sends greetings to her followers & code_lovers!✨ even she is from Îzmir City, Berlin & Mars 😎
+
 
 - 👀 Dev_Skills: Python, Py Frameworks & Libraries, C#, .NET, ASP.NET Core, JavaScript, JS Frameworks&Libraries, MSSQL, Data Science Skills 
 - 🌱 currently in AI Eng, LLMs, RAG 
