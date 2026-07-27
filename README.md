@@ -1,8 +1,8 @@
 
 
-- 👀 Dev_Skills: Python, Py Frameworks & Libraries, C#, .NET, ASP.NET Core, JavaScript, JS Frameworks&Libraries, MSSQL, Data Science Skills 
-- 🌱 currently in AI Eng, LLMs, RAG 
-- 🌱 #science #processtechnology #microelectronics #quantumtech
+- 🌱 AI Automation & Ethics Engineer, LLMs, RAGs, ISO27001 ISMS; ISO/IEC 42001 AIMS; ISO 31000 Risk Management  
+- 🌱 #women4cyber #womeninscience #processtech #microelectronics #quantumtech
+- 👀 Dev_Skills: Python, Py Frameworks & Libraries, C#, .NET, ASP.NET Core, JavaScript, MSSQL, DevOps Skills, Data Science Skills, 
 
                                       ✨ Happy Coding dear followers! Quereinsteiger Welcome! ✨
 
