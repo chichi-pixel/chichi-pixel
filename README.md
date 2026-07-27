@@ -2,7 +2,8 @@
 
 - 🌱 AI Automation & Ethics Engineer, LLMs, RAGs, ISO27001 ISMS; ISO/IEC 42001 AIMS; ISO 31000 Risk Management  
 - 🌱 #women4cyber #womeninscience #processtech #microelectronics #quantumtech
-- 👀 Dev_Skills: Python, Py Frameworks & Libraries, C#, .NET, ASP.NET Core, JavaScript, MSSQL, DevOps Skills, Data Science Skills, 
+- 👀 Dev_Skills: Python, Py Frameworks & Libraries, C#, .NET, ASP.NET Core, JavaScript, MSSQL, DevOps Skills, Data Science Skills
+- Sponsered by CS VISOR =>> #womenincybersec
 
                                       ✨ Happy Coding dear followers! Quereinsteiger Welcome! ✨
 
